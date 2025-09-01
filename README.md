@@ -1,4 +1,4 @@
-Hello! I'm currently founding Triple Pat ([@triple-pat](https://github.com/triple-pat) or [triplepat.com](https://triplepat.com)). I should know if it's on a successful path by February 2025.  That means I'm writing Go, Swift, and Kotlin for the systems involved, and I'm writing lots of shell and Dockerfiles and YAML and other configs to hold it all together.
+Hello! I'm currently founding Triple Pat ([@triple-pat](https://github.com/triple-pat) or [triplepat.com](https://triplepat.com)).  That means I'm writing Go, Swift, and Kotlin for the systems involved, and I'm writing lots of shell and Dockerfiles and YAML and other configs to hold it all together.
 
 - 🔭 I’m currently working on [Triple Pat](https://triplepat.com)
 - 🌱 I’m currently learning Swift and Kotlin
